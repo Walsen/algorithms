@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Run linear search",
+            "type": "command",
+            "program": "/usr/bin/python",
+            "args": ["$USER_HOME$/Projects/Learning/Algp/linear_search.py"],
+        },
+        {
+            "name": "Run binary search",
+            "type": "command",
+            "program": "/usr/bin/python",
+            "args": ["$USER_HOME$/Projects/Learning/Algp/binary_search.py"],
+        },
+        {
+            "name": "Run recursive binary search",
+            "type": "command",
+            "program": "/usr/bin/python",
+            "args": ["$USER_HOME$/Projects/Learning/Algp/recursive_binary_search.py"],
+        },
+    ]
+}
