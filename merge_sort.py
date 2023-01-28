@@ -28,6 +28,7 @@ def split(lst):
     Takes overall O(log n) time
     """
 
+    # ToDo: This can be improved implementing binary search instead of the code below
     mid = len(lst) // 2
     left = lst[:mid]
     right = lst[mid:]
